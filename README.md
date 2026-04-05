@@ -20,4 +20,4 @@ Passionate about turning data into meaningful insights across clinical and publi
 📍 Bangkok, Thailand
 🏆 Kaggle: https://www.kaggle.com/phatrapolphatrabhudhikul
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/phatrapolphatrabhudhikul)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/phatrapolphatr)
